@@ -1,7 +1,7 @@
 # Hi there! I'm Josué Hernández <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 
-<p><em>Software Enginner Student at <a href="https://www.ues.edu.sv/">Universidad de El Salvador</a>
+<p><em>Software Engineer Student at <a href="https://www.ues.edu.sv/">Universidad de El Salvador</a>
 </br>Developer at <a href="https://www.effortstack.com">Effort Stack</a>
 
 I'm that type of person who loves to learn new things. In the last three years I have shaped my profile in different areas such as Digital Marketing, UI/UX Design, Project Management and Development with the goal of leading in what will be one of the top 10 technology teams in Latin America.
