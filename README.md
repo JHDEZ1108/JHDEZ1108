@@ -38,15 +38,13 @@ const Josue = {
 }
 ```
 ### 📊 Github Stats
-<a href='https://github.com/JHDEZ1108/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/jhdez1108/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/jhdez1108/github-stats-transparent/output/generated/languages.svg)
-
-</a>
+![Josue's github stats](https://github-readme-stats.vercel.app/api?username=JHDEZ1108&show_icons=true&theme=dracula&hide=stars,issues)
  
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/joheca1998" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
  
  Last Updated on 30/11/2022 02:10:41 UTC
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
