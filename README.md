@@ -26,7 +26,7 @@ const Josue = {
       frontEnd: {
           css: ["SCSS, Tailwind, Bootstrap, MaterialUI"]
       },
-      devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "GitLab"],
+      devOps: ["GCP", "Docker🐳", "Route53", "Nginx", "GitLab"],
       databases: ["Postgres", "MySql", "Mongo"],
       api: ["API Rest", "GraphQL"],
       tools: [React, Redux, Node, Styled-Components, Jest, Docker],
