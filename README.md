@@ -37,8 +37,6 @@ const Josue = {
   challenge: "I am focused on react and typescript projects"
 }
 ```
-### 📊 Github Stats
-![Josue's github stats](https://github-readme-stats.vercel.app/api?username=JHDEZ1108&show_icons=true&theme=dracula&hide=stars,issues)
  
 ### 🔗 **Connect with me**
 <p align=center><a href="https://www.twitter.com/jhdez1108"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/jhdez1108"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/jhdez1108/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
@@ -47,7 +45,7 @@ const Josue = {
 
 <a href="https://www.buymeacoffee.com/joheca1998" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
  
- Last Updated on 30/11/2022 02:10:41 UTC
+ Last Updated on 08/03/2024 02:10:41 UTC
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
